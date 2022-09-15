@@ -9,7 +9,7 @@ from animations import formation as animation
 ANIMATION = True
 np.random.seed(5)
 
-filename = "formation_D" # Filename with the formation to obtain
+filename = "Task2/formation_D" # Filename with the formation to obtain
 NN = 8 # number of agents
 n_leaders = 2 # number of leaders
 d = 2 # space dimension
